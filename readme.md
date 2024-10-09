@@ -2,6 +2,8 @@
 
 Bloom adalah sebuah situs web yang dirancang untuk memberikan informasi mengenai produk dan layanan yang ditawarkan. Dengan desain yang responsif dan antarmuka yang ramah pengguna, Bloom bertujuan untuk memberikan pengalaman yang menyenangkan bagi pengunjung.
 
+<img src="ss.png">
+
 ## Fitur
 
 - **Header**: Menampilkan logo dan menu navigasi.
